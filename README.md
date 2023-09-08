@@ -2,7 +2,7 @@
 blah
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
-
+changes
 
 A customizable blog starter using:
 
